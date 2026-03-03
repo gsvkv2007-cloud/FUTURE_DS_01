@@ -13,7 +13,6 @@ The dashboard provides insights into sales trends, store performance, and extern
 
 ## 📂 Dataset
 - **Source:** Walmart Sales Dataset (Kaggle)  
-- **Time Period:** February 2010 – October 2012  
 - **Key Features:**
   - Store-level weekly sales  
   - Holiday flag indicator  
