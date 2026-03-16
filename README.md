@@ -52,13 +52,6 @@ The dashboard provides insights into sales trends, store performance, and extern
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository.  
-2. Open the `.pbix` file in **Power BI Desktop**.  
-3. Explore the interactive dashboard to analyze Walmart’s sales performance.  
-
----
-
 ## 📌 Conclusion
 This dashboard provides a comprehensive view of Walmart’s sales performance, enabling better understanding of:  
 - Store-level contributions  
